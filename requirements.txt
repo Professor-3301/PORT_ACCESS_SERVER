@@ -1,4 +1,3 @@
-crackmapexec==5.4.0
 censys==2.2.16
 certipy-ad==4.8.2
 bloodhound==1.7.2

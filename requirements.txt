@@ -1,4 +1,4 @@
-
+psycopg2-binary
 dnspython
 aiosmb
 hashID
@@ -28,7 +28,6 @@ asyncio
 pycryptodome
 cryptography
 sqlalchemy
-psycopg2
 pymongo
 redis
 celery
